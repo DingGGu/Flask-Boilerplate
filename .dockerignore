@@ -1,0 +1,4 @@
+.pip
+tests/
+docker-compose.yml
+.git
